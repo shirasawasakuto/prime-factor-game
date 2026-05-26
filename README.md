@@ -137,4 +137,4 @@ prime_factor_game.py   # ゲーム本体（単一ファイル）
 
 ## ライセンス
 本ソフトウェアは、3条項BSDライセンス（3-Clause BSD License）の下で提供されています。
-詳細は、同梱の [LICENSE](LICENSE.txt) ファイルをご参照ください。
+詳細は、同梱の LICENSEファイルをご参照ください。
