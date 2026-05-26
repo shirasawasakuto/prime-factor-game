@@ -125,11 +125,11 @@ prime_factor_game.py   # ゲーム本体（単一ファイル）
 
 ## スクリーンショット集  
 ### 1.ホーム画面  
-<img width="567" height="505" alt="ホーム画面" src="https://github.com/user-attachments/assets/afe3cc94-fead-47bd-a2e0-5767748b7037" />  
+<img width="567" height="505" alt="ホーム画面" src="https://github.com/user-attachments/assets/afe3cc94-fead-47bd-a2e0-5767748b7037" />    
 ### 2.通常モード・数の選択フェーズ  
-<img width="567" height="504" alt="通常モード・数の選択フェーズ" src="https://github.com/user-attachments/assets/c07f7fea-bcbf-4f8a-9b19-33f3eff68d83" />  
+<img width="567" height="504" alt="通常モード・数の選択フェーズ" src="https://github.com/user-attachments/assets/c07f7fea-bcbf-4f8a-9b19-33f3eff68d83" />   
 ### 3.通常モード・素因数分解フェーズ  
-<img width="567" height="507" alt="通常モード・素因数分解フェーズ" src="https://github.com/user-attachments/assets/7088ec51-f8b4-40e2-b834-d5aaec6acfa3" />  
+<img width="567" height="507" alt="通常モード・素因数分解フェーズ" src="https://github.com/user-attachments/assets/7088ec51-f8b4-40e2-b834-d5aaec6acfa3" />      
 ### 4.通常モード・リザルト画面  
 <img width="1038" height="934" alt="image" src="https://github.com/user-attachments/assets/fe1a80e1-096e-4f86-ab9f-500f562bdf36" />
 
